@@ -133,7 +133,7 @@ form label, form legend {
 
 .enviar:hover {
 	background: hotpink;
-	transform: scale(1.2);
+	transform: scale (1.2);
 }
 
 table {
