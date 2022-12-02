@@ -44,7 +44,7 @@ nav a:hover {
 }
 
 .produto img{
-	max-width: 30%;
+	width: auto;
 
 }
 .produtos li {
