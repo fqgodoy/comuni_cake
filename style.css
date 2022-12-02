@@ -48,7 +48,7 @@ nav a:hover {
 
 }
 .produtos li {
-	display: inline-block;
+	display: flex;
 	text-align: center;
 	max-width: 30%;
 	vertical-align: top;
