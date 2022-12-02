@@ -1,3 +1,4 @@
+
 body {
 	font-family: 'Montserrat', sans-serif;
 }
@@ -43,11 +44,6 @@ nav a:hover {
 	padding: 20px 0;
 }
 
-.produto img{
-	width: auto;
-	display: flex;
-
-}
 .produtos li {
 	display: inline-flex;
 	text-align: center;
