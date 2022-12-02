@@ -138,7 +138,9 @@ form label, form legend {
 }
 
 table {
-	margin: 20px 40px 40px 40px;
+	
+	width: 50%;
+	margin: auto;
 }
 
 thead {
