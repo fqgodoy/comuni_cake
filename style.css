@@ -178,6 +178,7 @@ td, th {
 
 .principal p {
 	margin: 0 0 1em;
+	text-align: justify;
 }
 
 .principal strong {
@@ -186,7 +187,6 @@ td, th {
 
 .principal em {
 	font-style: italic;
-	text-align: justify;
 }
 
 .utensilios {
