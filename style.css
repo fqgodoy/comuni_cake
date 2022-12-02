@@ -121,7 +121,7 @@ form label, form legend {
 
 .enviar {
 	width:auto;
-	padding: 15px 0;
+	padding: 15px;
 	background: lightpink;
 	color: brown;
 	font-weight: bold;
