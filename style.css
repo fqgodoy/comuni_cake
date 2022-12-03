@@ -237,7 +237,7 @@ td, th {
 }
 
 .itens:before {
-	content: "🟊";
+	content: "\066D";
 }
 
 .imagem-beneficios {
